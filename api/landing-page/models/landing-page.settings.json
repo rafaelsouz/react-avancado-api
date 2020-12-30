@@ -24,49 +24,49 @@
       "type": "component",
       "repeatable": false,
       "component": "page.header",
-      "required": true
+      "required": false
     },
     "sectionAboutProject": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-about-project",
-      "required": true
+      "required": false
     },
     "sectionTech": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech",
-      "required": true
+      "required": false
     },
     "sectionConcepts": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-concepts",
-      "required": true
+      "required": false
     },
     "sectionModules": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-modules",
-      "required": true
+      "required": false
     },
-    "princingBox": {
+    "pricingBox": {
       "type": "component",
       "repeatable": false,
-      "component": "page.princing-box",
-      "required": true
+      "component": "page.pricing-box",
+      "required": false
     },
     "sectionAboutUs": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-about-us",
-      "required": true
+      "required": false
     },
     "sectionReviews": {
       "type": "component",
       "repeatable": false,
       "component": "page.section-reviews",
-      "required": true
+      "required": false
     },
     "sectionFaq": {
       "type": "component",

@@ -1,8 +1,9 @@
 {
   "collectionName": "components_page_tech_icons",
   "info": {
-    "name": "techIcon",
-    "icon": "tools"
+    "name": "techIcons",
+    "icon": "tools",
+    "description": ""
   },
   "options": {},
   "attributes": {
