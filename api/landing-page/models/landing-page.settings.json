@@ -72,6 +72,11 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-faq"
+    },
+    "sectionAgenda": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-agenda"
     }
   }
 }
